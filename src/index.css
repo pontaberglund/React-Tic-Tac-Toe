@@ -1,13 +1,35 @@
-body {
+body{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  background-image: url("./images/pexels-quintin-gellar-313782.jpg");
+  background-size: cover;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.square{
+  opacity: 70%;
+  float: left;
+  background: #E39774;
+  border: 1px solid #326273 ;
+  width: 100px;
+  height: 100px;
+  line-height: 50px;
+  margin-right: -1px;
+  margin-top: -1px;
+  font-size: 34px;
+  color: #EEEEEE;
+}
+
+.board{
+  text-align: center;
+  color: #EEEEEE;
+}
+
+.board > h1{
+  background-color: #E39774;
+  opacity: 70%;
+  border-radius: 10px;
+  border: 1px solid #326273;
 }
