@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-Tic-Tac-Toe/static/css/main.45f2aeed.css",
+    "main.js": "/React-Tic-Tac-Toe/static/js/main.d83b4774.js",
+    "static/media/pexels-quintin-gellar-313782.jpg": "/React-Tic-Tac-Toe/static/media/pexels-quintin-gellar-313782.ada075528a553e80a5ad.jpg",
+    "index.html": "/React-Tic-Tac-Toe/index.html",
+    "main.45f2aeed.css.map": "/React-Tic-Tac-Toe/static/css/main.45f2aeed.css.map",
+    "main.d83b4774.js.map": "/React-Tic-Tac-Toe/static/js/main.d83b4774.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45f2aeed.css",
+    "static/js/main.d83b4774.js"
+  ]
+}
